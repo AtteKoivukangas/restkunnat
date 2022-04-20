@@ -66,7 +66,7 @@ https://restkunnat.herokuapp.com/region/{region}
 ```
 
 ``` html
-https://restkunnat.herokuapp.com/region/kotka-haminan seutukunta
+https://restkunnat.herokuapp.com/region/Etelä-Pirkanmaan seutukunta
 ```
 
 ## Response Example
