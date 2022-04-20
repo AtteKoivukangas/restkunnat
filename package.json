@@ -1,5 +1,6 @@
 {
   "name": "restkunnat",
+  "author": "Atte Koivukangas",
   "version": "1.0.0",
   "description": "REST API for getting information about finnish municipalities",
   "main": "index.js",

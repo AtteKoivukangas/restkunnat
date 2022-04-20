@@ -3,7 +3,7 @@ This API is inspired by [restcountries.com](https://restcountries.com) and provi
 
 Data about municipalities is collected from [wikipedia](https://fi.wikipedia.org/wiki/Luettelo_Suomen_kunnista).
 
-# REST Kunnat
+# 🇫🇮 REST Kunnat
 You can access API through [https://restkunnat.herokuapp.com/all](https://restkunnat.herokuapp.com/all)
 
 # API endpoints
@@ -106,5 +106,5 @@ https://restkunnat.herokuapp.com/{endpoint}?fields={field},{field},{field}
 https://restkunnat.herokuapp.com/all?fields=name,area,population
 ```
 
-## License
+## 📜 License
 This project uses MIT license

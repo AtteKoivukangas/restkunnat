@@ -17,10 +17,14 @@ const sendReadmeAsHTML = (request, response) => {
         <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=no'/>
         <meta name='theme-color' content='#fff' />
         <meta name='description' content='REST API for getting information about finnish municipalities' />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
         <title>Restkunnat</title>
         <style>${markdownStyles}</style>
       </head>
       <body>
+        <div style="display: flex; align-items: center; justify-content: center">
+          <a href="https://github.com/AtteKoivukangas/restkunnat">View on Github | Atte Koivukangas</a>
+        </div>
         <main>${htmlBody}</main>
       </body>
     </html>
